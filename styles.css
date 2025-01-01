@@ -16,3 +16,12 @@
     font-style: normal;
 }
   
+.button_round {
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
