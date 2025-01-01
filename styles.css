@@ -1,28 +1,16 @@
-.archivo {
-    font-family: "Archivo", serif;
-    font-weight: 100;
-    font-style: normal;
-}
-
-.libre-baskerville {
-    font-family: "Libre Baskerville", serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.barlow-condensed-light {
+.font_1-0 {
     font-family: "Barlow Condensed", serif;
     font-weight: 300;
     font-style: normal;
 }
   
-.barlow-condensed {
+.font_1-1 {
     font-family: "Barlow Condensed", serif;
     font-weight: 400;
     font-style: normal;
 }
   
-.quicksand {
+.font_2 {
     font-family: "Quicksand", serif;
     font-weight: 350;
     font-style: normal;
