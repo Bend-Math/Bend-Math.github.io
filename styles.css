@@ -1,6 +1,5 @@
 .archivo {
     font-family: "Archivo", serif;
-    font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
 }
@@ -20,6 +19,12 @@
 .barlow-condensed {
     font-family: "Barlow Condensed", serif;
     font-weight: 400;
+    font-style: normal;
+}
+  
+.quicksand {
+    font-family: "Quicksand", serif;
+    font-weight: 350;
     font-style: normal;
 }
   
